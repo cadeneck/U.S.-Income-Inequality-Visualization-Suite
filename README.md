@@ -101,4 +101,4 @@ All charts include hover tooltips showing exact values at each data point.
 
 Caden Eckman
 Data sourced from the U.S. Census Bureau Current Population Survey (CPS)
-```https://www.census.gov/data/tables/2024/demo/income-poverty/p60-282.html
+[Income in the United States: 2023](https://www.census.gov/data/tables/2024/demo/income-poverty/p60-282.html)
